@@ -6,6 +6,6 @@
 ![Resultado final do projeto](img/final.png)
 
 ## Tecnologias Ultilizadas 
--HTML;
--CSS;
+- HTML;
+- CSS;
  
